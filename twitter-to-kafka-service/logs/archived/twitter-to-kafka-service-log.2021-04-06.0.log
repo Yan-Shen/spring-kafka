@@ -1,0 +1,11 @@
+2021-04-06 12:48:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.10 on YANs-MacBook-Pro.local with PID 6626 (/Users/yanshen/Documents/05 Career/code/spring.kafka.elastic/twitter-to-kafka-service/target/classes started by yanshen in /Users/yanshen/Documents/05 Career/code/spring.kafka.elastic)
+2021-04-06 12:48:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-06 12:48:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.92 seconds (JVM running for 2.19)
+2021-04-06 12:48:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application start running
+2021-04-06 12:48:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-06 12:52:19 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.10 on YANs-MacBook-Pro.local with PID 6655 (/Users/yanshen/Documents/05 Career/code/spring.kafka.elastic/twitter-to-kafka-service/target/classes started by yanshen in /Users/yanshen/Documents/05 Career/code/spring.kafka.elastic)
+2021-04-06 12:52:19 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-06 12:52:19 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.892 seconds (JVM running for 1.773)
+2021-04-06 12:52:19 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application start running
+2021-04-06 12:52:19 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-06 12:52:19 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Welcome to the service

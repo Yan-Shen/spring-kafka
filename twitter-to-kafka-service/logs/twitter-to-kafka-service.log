@@ -1,0 +1,409 @@
+2021-04-11 07:48:15 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 07:48:18 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 07:48:18 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 07:57:07 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 07:57:08 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 07:57:08 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:01:08 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:01:08 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:01:08 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:05:08 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:05:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:05:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:09:09 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:09:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:09:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:13:09 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:13:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:13:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:17:09 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:17:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:17:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:21:09 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:21:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:21:09 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:33:46 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:33:46 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:33:46 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:37:46 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:37:47 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:37:47 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:41:47 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:41:47 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:41:47 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:54:49 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:54:49 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:54:49 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 08:58:49 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 08:58:49 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 08:58:49 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 09:04:13 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 09:04:14 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 09:04:14 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 09:08:14 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 09:08:14 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 09:08:14 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 09:12:42 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 09:12:43 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 09:12:43 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 09:16:43 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 09:16:43 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 09:16:43 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 09:20:43 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 09:20:43 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 09:20:43 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 10:18:34 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 10:18:35 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 10:18:35 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 10:22:35 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 10:22:35 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 10:22:35 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 10:26:35 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 10:26:35 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 10:26:35 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 10:30:35 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 10:30:35 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 10:30:35 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 10:48:56 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 10:48:56 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 10:48:56 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 10:52:56 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 10:52:56 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 10:52:56 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 10:56:56 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 10:56:57 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 10:56:57 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:00:57 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:00:57 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:00:57 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:08:27 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:08:28 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:08:28 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:20:40 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:20:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:20:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:24:40 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:24:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:24:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:28:40 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:28:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:28:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:32:40 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:32:41 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:32:41 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:36:41 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:36:41 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:36:41 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:40:41 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:40:41 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:40:41 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:44:41 [Twitter Stream consumer /  [1][Waiting for 240000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-11 11:44:41 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-11 11:44:41 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 240000 milliseconds
+2021-04-11 11:48:37 [SpringContextShutdownHook] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - closing down Twitter stream!
