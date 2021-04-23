@@ -9,5 +9,6 @@ public class MockKafkaStreamRunner implements StreamRunner {
     // adding commnets
         // commits 2 activity
         // commit 3 activity
+        // commit 4 activity
     }
 }
