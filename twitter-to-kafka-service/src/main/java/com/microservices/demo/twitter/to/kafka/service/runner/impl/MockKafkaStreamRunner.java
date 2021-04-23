@@ -8,5 +8,6 @@ public class MockKafkaStreamRunner implements StreamRunner {
     public void start() throws TwitterException {
     // adding commnets
         // commits 2 activity
+        // commit 3 activity
     }
 }
