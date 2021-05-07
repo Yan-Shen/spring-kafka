@@ -1,0 +1,66 @@
+2021-04-26 14:14:38 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 14.0.1 on YANs-MacBook-Pro.local with PID 67650 (/Users/yanshen/Documents/05 Career/code/spring.kafka.elastic/twitter-to-kafka-service/target/classes started by yanshen in /Users/yanshen/Documents/05 Career/code/spring.kafka.elastic)
+2021-04-26 14:14:38 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-26 14:14:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.512 seconds (JVM running for 2.959)
+2021-04-26 14:14:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application start running
+2021-04-26 14:14:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-26 14:14:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Welcome to the service
+2021-04-26 14:14:39 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-26 14:14:39 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Starting filter Twitter stream for keywords [Java, Microservices, Kafka, Elasticsearch]
+2021-04-26 14:14:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-26 14:14:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 10000 milliseconds
+2021-04-26 14:14:50 [Twitter Stream consumer /  [1][Waiting for 10000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-26 14:14:50 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-26 14:14:50 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 20000 milliseconds
+2021-04-26 14:15:10 [Twitter Stream consumer /  [1][Waiting for 20000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-26 14:15:10 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2021-04-26 14:15:10 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 40000 milliseconds
+2021-04-26 14:15:18 [SpringContextShutdownHook] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - closing down Twitter stream!
+2021-04-26 14:15:25 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 14.0.1 on YANs-MacBook-Pro.local with PID 67666 (/Users/yanshen/Documents/05 Career/code/spring.kafka.elastic/twitter-to-kafka-service/target/classes started by yanshen in /Users/yanshen/Documents/05 Career/code/spring.kafka.elastic)
+2021-04-26 14:15:25 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-26 14:15:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 2.303 seconds (JVM running for 4.625)
+2021-04-26 14:15:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application start running
+2021-04-26 14:15:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-26 14:15:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Welcome to the service
+2021-04-26 14:15:26 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2021-04-26 14:15:26 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter Status with text sed porttitor ipsum congue purus sit Elasticsearch ipsum lectus porttitor pulvinar
+2021-04-26 14:15:36 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter Status with text Fusce consectetuer ipsum adipiscing dolor lectus Kafka ipsum Maecenas posuere posuere
+2021-04-26 14:15:46 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter Status with text purus posuere Maecenas lectus Fusce Java amet sit sed
+2021-04-26 14:15:56 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter Status with text ipsum malesuada posuere Kafka sed Fusce
+2021-04-26 14:16:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 14.0.1 on YANs-MacBook-Pro.local with PID 67678 (/Users/yanshen/Documents/05 Career/code/spring.kafka.elastic/twitter-to-kafka-service/target/classes started by yanshen in /Users/yanshen/Documents/05 Career/code/spring.kafka.elastic)
+2021-04-26 14:16:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-26 14:16:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.222 seconds (JVM running for 2.069)
+2021-04-26 14:16:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application start running
+2021-04-26 14:16:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-26 14:16:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Welcome to the service
+2021-04-26 14:16:03 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2021-04-26 14:16:03 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter Status with text elit sit malesuada Lorem magna Java adipiscing magna amet libero
+2021-04-26 14:16:08 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter Status with text malesuada elit ultricies porttitor Maecenas Lorem Microservices malesuada pulvinar dolor Maecenas purus
+2021-04-26 14:16:13 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter Status with text congue ultricies adipiscing purus Lorem lectus sit Kafka dolor congue magna Lorem adipiscing malesuada
+2021-04-26 14:16:18 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter Status with text congue ipsum sed posuere sit Microservices libero massa adipiscing lectus
